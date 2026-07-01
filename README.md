@@ -124,6 +124,7 @@ screenshots:
 - Multiplication
 - Division
 - Error Handling
+<img width="956" height="469" alt="Screenshot 2026-07-01 200927" src="https://github.com/user-attachments/assets/2042ac2c-63b0-4df9-9b7d-eb532fa9e620" />
 
 ## What I Learned
 
